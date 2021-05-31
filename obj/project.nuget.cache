@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4fvrLqSIxetXglyX5sys+Y2/D0VnhdDKPX+nfK6XM79eaiKntbrJs9WpoloTQ4nHWPWmYNN09wSqa0ZMwYjVwg==",
+  "dgSpecHash": "EyuYKbCZaRtM191G1yfZjP4n/65AXO29G2VqV7EwabH7+gR3gGJCnHnaNred08aeM07bcVHxznIPK2wmQnajSQ==",
   "success": true,
-  "projectFilePath": "D:\\Projcts\\Resturent\\Resturent\\Resturent.csproj",
+  "projectFilePath": "D:\\Projcts\\Restaurent\\Resturent\\Restaurent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\waidy\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.10\\microsoft.aspnetcore.cryptography.internal.3.1.10.nupkg.sha512",
     "C:\\Users\\waidy\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.10\\microsoft.aspnetcore.cryptography.keyderivation.3.1.10.nupkg.sha512",

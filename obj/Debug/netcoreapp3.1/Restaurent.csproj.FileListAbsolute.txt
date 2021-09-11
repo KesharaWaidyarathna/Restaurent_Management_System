@@ -398,7 +398,6 @@ D:\Projcts\Restaurent\Resturent\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\
 D:\Projcts\Restaurent\Resturent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projcts\Restaurent\Resturent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projcts\Restaurent\Resturent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.csprojAssemblyReference.cache
 D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.AssemblyInfoInputs.cache
 D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.AssemblyInfo.cs
 D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.csproj.CoreCompileInputs.cache
@@ -479,3 +478,4 @@ D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.csproj.CopyCo
 D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.dll
 D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.pdb
 D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.genruntimeconfig.cache
+D:\Projcts\Restaurent\Resturent\obj\Debug\netcoreapp3.1\Restaurent.csproj.AssemblyReference.cache

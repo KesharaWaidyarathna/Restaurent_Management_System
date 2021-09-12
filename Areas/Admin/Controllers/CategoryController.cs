@@ -101,5 +101,35 @@ namespace Resturent.Areas.Admin.Controllers
             return View(Category);
         }
 
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var category = await _db.Category.FindAsync(id);
+            if (category == null)
+            {
+                return View();
+            }
+            _db.Category.Remove(category);
+            await _db.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Details(int? Id)
+        {
+            if (Id == null)
+            {
+                return NotFound();
+            }
+
+            var Category = await _db.Category.FindAsync(Id);
+
+            if (Category == null)
+            {
+                return NotFound();
+            }
+
+            return View(Category);
+        }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Restaurent.Models;
 using Resturent.Models;
 using System;
 using System.Collections.Generic;
@@ -15,5 +16,6 @@ namespace Resturent.Data
         }
 
         public DbSet<Category> Category { get; set; }
+        public DbSet<SubCategory> SubCategory { get; set; }
     }
 }
